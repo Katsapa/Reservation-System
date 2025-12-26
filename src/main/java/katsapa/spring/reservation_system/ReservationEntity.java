@@ -1,4 +1,3 @@
-
 package katsapa.spring.reservation_system;
 
 import jakarta.persistence.*;
